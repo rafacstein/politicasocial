@@ -1,0 +1,15 @@
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/04435ede-cb77-49e4-9d8e-5a1a2963e50d/download/orcamentosexecucoes-2009.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/8708a152-7979-48d0-ac81-1ad16577e600/download/orcamentosexecucoes-2010.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/71c38c9a-2c7d-46cf-8787-1475f78cd41b/download/orcamentosexecucoes-2011.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/aa4a9bcc-cab8-4ce2-bb1b-f22c452c0d8b/download/orcamentosexecucoes-2012.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/30e5574c-29ce-439a-ae83-8e7f43488739/download/orcamentosexecucoes-2013.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/97ded727-29c6-499f-8da7-4f458ff64fd5/download/orcamentosexecucoes-2014.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/0f6249df-6df3-4c48-9546-edcf52495812/download/orcamentosexecucoes-2015.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/2f8e7519-e744-49b8-811f-91a8eb56017d/download/orcamentosexecucoes-2016.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/1d8ef0c7-0d86-4724-a435-317f2f97e290/download/orcamentosexecucoes-2017.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/508996c9-d7c7-4e3b-b1d6-57fe4cd5a27a/download/orcamentosexecucoes-2018.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/e56255b8-0a0f-4fa5-933b-0a20f3620572/download/orcamentosexecucoes-2019.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/f1928bac-a0b3-45ca-9fcc-65cb47f01577/download/orcamentosexecucoes-2020.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/6c0f83eb-da23-498c-9b51-ced911093159/download/orcamentosexecucoes-2021.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/00827698-d8da-40eb-8798-5fb3916e0f28/download/orcamentosexecucoes-2023.csv
+https://dados.es.gov.br/dataset/99e16b13-0e6f-4504-8544-00de842ab1fd/resource/3b39753a-1b99-459b-9955-56b7449f810b/download/orcamentosexecucoes-2024.csv
